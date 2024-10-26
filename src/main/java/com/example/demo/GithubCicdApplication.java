@@ -12,12 +12,12 @@ public class GithubCicdApplication {
 	public String welcome() {
 		return "Welcome to CICD";
 	}
-//	echo "# github-action" >> README.md
+//	echo "# github-cicd" >> README.md
 //	git init
 //	git add README.md
 //	git commit -m "first commit"
 //	git branch -M main
-//	git remote add origin https://github.com/siddhestripathy/github-action.git
+//	git remote add origin https://github.com/siddhestripathy/github-cicd.git
 //	git push -u origin main
 
 	public static void main(String[] args) {
